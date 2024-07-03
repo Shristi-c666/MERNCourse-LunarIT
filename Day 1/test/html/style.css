@@ -1,0 +1,36 @@
+p{
+    color: red;
+font-size: 100px;
+background-color: green;
+}
+
+h2,h3,h4{
+    color: yellow;
+    font-size: 100px;
+    background-color: red;
+}
+
+h3{
+    border: 4px dotted black;
+    margin: 100px 30px
+   
+
+}
+
+img{
+    margin-left: 600px;
+    margin-top: 800px;
+   height: 200px;
+   width: 100px;
+}
+a{
+    text-decoration: none;
+}
+h4{
+    border-bottom: 10px solid blue;
+   
+}
+span{
+    font-weight: 900;
+    font-style: italic;
+}
